@@ -1,0 +1,4 @@
+interface:
+  display_name: "Разбор исследований"
+  short_description: "Перенос фактов из сырья в базу исследований"
+  default_prompt: "Используй $ingest, чтобы разобрать новые материалы в research-base."
